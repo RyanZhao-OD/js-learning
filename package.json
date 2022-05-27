@@ -27,7 +27,7 @@
     "koa-router": "^7.2.1",
     "mathjs": "^4.4.2",
     "mobx": "^6.5.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "multer": "^1.2.1"
